@@ -72,3 +72,16 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn streamlit
+
+To run dashboard:
+streamlit run dashboard.py
+
+## 📁 Project Structure 
+Train-Journey-Prediction-Project/
+│
+├── Dataset1.csv
+├── Train_Journey_Prediction_ML_Project.ipynb
+├── Train_Journey_Prediction_ML_Project.py
+├── Dashboard.ipynb
+├── Dashboard.py
+└── README.md
